@@ -26,4 +26,16 @@ color article             white   black
 
 ```
 
+* urls
+```urls
+https://b.hatena.ne.jp/hotentry.rss
+https://news.yahoo.co.jp/rss/topics/world.xml
+https://news.yahoo.co.jp/rss/topics/domestic.xml
+https://news.yahoo.co.jp/rss/topics/business.xml
+https://news.yahoo.co.jp/rss/topics/science.xml
+https://news.livedoor.com/topics/rss/top.xml
+http://kaigainohannoublog.blog55.fc2.com/?xml
+http://blog.livedoor.jp/zzcj/index.rdf
+https://rss.allabout.co.jp/aa/latest/ch/relationship/
+https://www.lifehacker.jp/feed/index.xml "働き方" "アイデア・発想術"
 
